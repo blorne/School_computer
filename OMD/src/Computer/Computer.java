@@ -14,7 +14,7 @@ public class Computer {
 	private WordCounter i;
 	private Address counter;
 	
-	//kommentera for att testa
+	//kommentera for att testa igen
 	public Computer(Memory m) {
 		this.m = m;
 		list = new ArrayList<Command>();
